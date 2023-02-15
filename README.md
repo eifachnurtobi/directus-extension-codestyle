@@ -6,5 +6,10 @@ Default codestyle for Directus extensions as of Directus v9.22.4.
 
 Download this repo, and move the dotfiles into the top level of your extension directory manually.
 
-Alternatively, you can install using `npm i eifachnurtobi/directus-extension-codestyle#main`
-and run `cp node_modules/directus-extension-codestyle/.* .` to copy the dotfiles to the top level of your extension directory.
+Alternatively, you can install using
+`npm i eifachnurtobi/directus-extension-codestyle`
+then run the command
+`cp node_modules/directus-extension-codestyle/.* .`
+to copy the dotfiles to the top level of your extension directory.
+You can uninstall the npm package again afterwards using
+`npm uninstall directus-extension-codestyle`
