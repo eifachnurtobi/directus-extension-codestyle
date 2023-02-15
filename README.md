@@ -8,7 +8,7 @@ Download this repo, and move the dotfiles into the top level of your extension d
 
 Alternatively, you can install using
 `npm i eifachnurtobi/directus-extension-codestyle`
-then run the command
+and running
 `cp node_modules/directus-extension-codestyle/.* .`
 to copy the dotfiles to the top level of your extension directory.
 You can uninstall the npm package again afterwards using
