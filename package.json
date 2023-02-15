@@ -1,0 +1,21 @@
+{
+  "name": "directus-extension-codestyle",
+  "version": "1.0.0",
+  "description": "Default codestyle for Directus extensions as of Directus v9.22.4.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eifachnurtobi/directus-extension-codestyle.git"
+  },
+  "keywords": [
+    "directus",
+    "directus extension",
+    "directus codestyle",
+    "directus extension codestyle"
+  ],
+  "author": "eifachnurtobi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eifachnurtobi/directus-extensions-codestyle/issues"
+  },
+  "homepage": "https://github.com/eifachnurtobi/directus-extensions-codestyle#readme"
+}
