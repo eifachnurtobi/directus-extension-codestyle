@@ -2,7 +2,7 @@
 
 Default codestyle for Directus extensions as of Directus v9.22.4.
 
-## Installation
+## Copy the Dotfiles
 
 Download the repo, and move the dotfiles into the top level of your extension directory manually.
 
@@ -14,7 +14,7 @@ cp node_modules/directus-extension-codestyle/.* . &&
 npm uninstall directus-extension-codestyle
 ```
 
-## Setup
+## Installation
 
 1. Install the required eslint extensions with 
 
